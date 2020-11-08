@@ -1,3 +1,6 @@
+#translator
+A simple application that translates pseudo-C constructs into low-level language constructs (pseudo-assembler).
+
 BUILDING:
 	make all
 
