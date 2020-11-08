@@ -1,0 +1,13 @@
+i = 27;
+j = 1;
+while (j != i) {
+    if (j > i/2) {
+        print(0);
+        return(0);
+    }
+    if (j*j == i) {
+        print(j);
+        return(j);
+    }
+    j++;
+}

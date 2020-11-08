@@ -1,0 +1,13 @@
+if (i>10){
+	k=k+5;
+	print(k);
+	while (k <= 15)
+	{
+		k1 = (k*15/2+12)% 10;
+	}
+} 
+else{ if (k1==3)
+			{print(k1);}
+			else{
+			k--;
+			print(k);}}

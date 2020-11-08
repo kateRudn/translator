@@ -1,0 +1,15 @@
+a=3, b=4; f=0;
+if(b<89) {
+f+3;
+if (a<b)
+{
+f=4;
+}
+}
+else if (4+f<65) 
+{ a++; }
+else if (c<4)
+{ d--; }
+else 
+{ a++; }
+return;

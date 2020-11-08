@@ -1,0 +1,16 @@
+a=3, b=4; c=0, d=2, k=-34, q=984, r=1;
+a=(b+(c+(d+(k+(q+(r*10))))));
+if (a*c+4<43)
+{
+print (a);
+}
+else if (a*45|4<<34)
+{
+print (b);
+}
+else 
+{
+print (c);
+}
+return;
+

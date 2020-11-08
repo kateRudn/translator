@@ -1,0 +1,7 @@
+a=3;
+aa=4;
+aaa=5;
+if ((a*a+aa*aa) == (aaa*aaa)){
+	print(1);
+}
+else{print(0);}
